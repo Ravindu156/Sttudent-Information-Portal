@@ -6,7 +6,7 @@ import {students} from './components/StudentsDb';
 function App() {
   return (
     <div className="App">
-      <h1>Student Information Portal</h1>
+    <h1>Student Information Portal</h1>
      <table>
         <tbody>
           <tr>
@@ -15,6 +15,7 @@ function App() {
               </td>
           
           </tr>
+
 
         </tbody>
 
