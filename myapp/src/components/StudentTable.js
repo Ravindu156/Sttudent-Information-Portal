@@ -1,3 +1,5 @@
+import '../assests/CSS/compo.css'
+
 export default function StudentTable(props){
     return(
             <div className='outerDiv'>
@@ -5,9 +7,9 @@ export default function StudentTable(props){
                     <table>
                         <thread>
                             <td>First Name</td>
-                            <td> </td>
-                            <td></td>
-                            <td></td>
+                            <td> Last Name</td>
+                            <td>Course</td>
+                            <td>Country</td>
                         </thread>
 
                     </table>
