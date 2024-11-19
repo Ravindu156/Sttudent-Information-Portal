@@ -3,7 +3,7 @@ import '../assests/CSS/compo.css'
 export default function StudentTable(props){
     return(
             <div className='outerDiv'>
-                <div className='innerDiv'>
+                <div className='leftDiv'>
                     <table>
                         <thread>
                             <td>First Name</td>
